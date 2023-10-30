@@ -1,9 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Asap&display=swap");
-body {
-  margin: 0;
-  font-family: Optima;
-  background-color: #c1adb8;
-}
 
 * {
     margin: 0;
@@ -11,6 +6,7 @@ body {
     box-sizing: border-box;
     font-family: "Asap", sans-serif;
     scroll-behavior: smooth;
+    background-color: #c1adb8;
 }
 
 a {
