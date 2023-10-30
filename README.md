@@ -1,5 +1,7 @@
 # cmsc388T-web-template
 
+The change I made was I adjusted the background color of the page. I made it #c1adb8.
+
 ## Color Family
 Light yellow: #FAF8D4
 
